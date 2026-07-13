@@ -64,9 +64,6 @@ Currently, I'm undergoing professional training at Infosys, where I'm strengthen
 
 ## 📌 Featured Projects
 
-### 🌐 SpotJobs
-A full-stack job portal built using the MERN Stack featuring JWT authentication, recruiter & applicant dashboards, resume uploads, and responsive UI.
-
 ### 🎓 Vidivu
 A mentorship platform designed for MCA students to connect juniors with seniors, share resources, projects, and placement guidance.
 
