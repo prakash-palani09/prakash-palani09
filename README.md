@@ -43,7 +43,7 @@ Currently, I'm undergoing professional training at Infosys, where I'm strengthen
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker,azure" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker,aws" />
 </p>
 
 ---
