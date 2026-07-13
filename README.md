@@ -106,11 +106,11 @@ A repository dedicated to practicing Data Structures & Algorithms in Java, cover
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/prakash-palani-0833a3264/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:prakashpalani009">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
